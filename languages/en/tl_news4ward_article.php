@@ -28,15 +28,15 @@ $GLOBALS['TL_LANG']['tl_news4ward_article']['teaserImage'] = array('Teaser image
 $GLOBALS['TL_LANG']['tl_news4ward_article']['teaserImageCaption'] = array('Image caption', 'Here you can enter image caption.');
 $GLOBALS['TL_LANG']['tl_news4ward_article']['social']      = array('Syndication', 'Here you can choose which options are available.');
 $GLOBALS['TL_LANG']['tl_news4ward_article']['cssID']       = array('CSS ID/class', 'Here you can set an ID and one or more classes.');
-$GLOBALS['TL_LANG']['tl_news4ward_article']['space']       = array('Space in front and after', 'Here you can enter the spacing in front of and after the article in pixel. You should try to avoid inline styles and define the spacing in a style sheet, though.');
+$GLOBALS['TL_LANG']['tl_news4ward_article']['space']       = array('Space in front and after', 'Here you can enter the spacing in front of and after the article in pixel. You should try to avoid inline styles and define the spacing in a stylesheet.');
 $GLOBALS['TL_LANG']['tl_news4ward_article']['status']      = array('Status', 'Publish the entry on the page.');
 $GLOBALS['TL_LANG']['tl_news4ward_article']['start']       = array('Show from', 'Do not show the blog entry on the website before this day.');
 $GLOBALS['TL_LANG']['tl_news4ward_article']['stop']        = array('Show until', 'Do not show the blog entry on the website on and after this day.');
 $GLOBALS['TL_LANG']['tl_news4ward_article']['tstamp']      = array('Revision date', 'Date and time of the latest revision.');
 $GLOBALS['TL_LANG']['tl_news4ward_article']['highlight']   = array('Featured entry','Show the blog entry in a featured blog entries list.');
 $GLOBALS['TL_LANG']['tl_news4ward_article']['sticky']      = array('Promoted entry','Entry will be visible on the top of entries list.');
-$GLOBALS['TL_LANG']['tl_news4ward_article']['useFacebookImage']= array('Use another image for Facebook', 'Here you can choose the image, which will be used instead of Teaser image.');
-$GLOBALS['TL_LANG']['tl_news4ward_article']['facebookImage']   = array('Facebook image', 'Here you can select the image, which will be used on Facebook.');
+$GLOBALS['TL_LANG']['tl_news4ward_article']['useFacebookImage']= array('Use another image for Facebook shares', 'Here you can choose the image, which will be used instead of Teaser image.');
+$GLOBALS['TL_LANG']['tl_news4ward_article']['facebookImage']   = array('Facebook image', 'Here you can select the image, which will be used when people share this content to Facebook.');
 
 $GLOBALS['TL_LANG']['tl_news4ward_article']['stati'] = array('published'=>'published','review'=>'review','draft'=>'draft');
 
